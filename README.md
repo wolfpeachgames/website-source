@@ -16,3 +16,5 @@ Remember to push changes to the `source` remote!
 
 ## Deployment
 Run `npm run deploy` to build and deploy the project to Github Pages. Ensure you have the repository you wish to deploy to set as the `origin` of your local repo. Will require push access to that repo.
+
+This repo is currently setup for automated deploys using Github Actions
