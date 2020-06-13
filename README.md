@@ -1,6 +1,8 @@
 # 🐺🍑🎮 Wolfpeach Games Website
 Static site for Wolfpeach Games. Built using [Gatsby](https://www.gatsbyjs.org/) and [React](https://reactjs.org/).
 
+![Deploy](https://github.com/wolfpeachgames/website-source/workflows/Deploy/badge.svg)
+
 ## Requirements
 * [NodeJS](https://nodejs.org/en/)
 
