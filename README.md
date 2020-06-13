@@ -1,3 +1,11 @@
+# Wolfpeach Games Website
+
+## Development
+
+- Clone this repo
+- Set remote `source` to be this repo
+- Install dependencies with `npm install`
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
