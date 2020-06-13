@@ -1,5 +1,9 @@
 import React from "react"
 
 export default function Header(props) {
-  return <h1>{props.children}</h1>
+  return (
+    <h1 style={{fontSize: "60px"}}>
+      {props.children}
+    </h1>
+  )
 }
