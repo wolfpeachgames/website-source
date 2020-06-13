@@ -9,7 +9,8 @@ export default function Home() {
     <Container>
       {/* <Link to="/contact/">Contact</Link> */}
       <Header>🐺🍑🎮</Header>
-      <p>Coming soon...</p>
+      <h2>Coming soon...</h2>
+      <p>Wolfpeach Games is <a href="http://theverdigris.ca">Stephanie</a> and <a href="https://tyrelh.github.io">Tyrel</a></p>
     </Container>
   )
 }
