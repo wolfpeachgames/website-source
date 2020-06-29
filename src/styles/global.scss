@@ -1,0 +1,30 @@
+$font-futura: "Futura", "Arial", sans-serif;
+@font-face {
+  font-family: "Canela-Black";
+  src: url("https://cdn.decrypt.co/wp-content/themes/decrypt-media/assets/fonts/Canela-Black-Web.woff2") format("woff2")
+}
+$font-canela: "Canela-Black", serif;
+
+html {
+    background-color: #FEFEFF;
+    color: #222222;
+}
+
+.headerWordmark {
+  width: 100%;
+}
+
+p {
+    font-size: 1.5em;
+    font-family: $font-futura;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  font-family: $font-canela;
+  font-size: 3.5em;
+  margin-top: 0;
+}

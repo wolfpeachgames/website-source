@@ -8,7 +8,7 @@ export default function Home() {
       
     <Container>
       {/* <Link to="/contact/">Contact</Link> */}
-      <Header><img src="https://raw.githubusercontent.com/wolfpeachgames/website-source/master/src/images/wordmark2.png" alt="Wolf Peach Games word mark"/></Header>
+      <Header><img className="headerWordmark" src="https://raw.githubusercontent.com/wolfpeachgames/website-source/master/src/images/wordmark2.png" alt="Wolf Peach Games word mark"/></Header>
       <h2>Coming soon...</h2>
       <p>Wolfpeach Games is <a href="http://theverdigris.ca">Stephanie</a> and <a href="https://tyrelh.github.io">Tyrel</a></p>
       <p>🐺🍑🎮</p>
