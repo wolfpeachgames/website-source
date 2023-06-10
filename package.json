@@ -15,7 +15,7 @@
     "deploy": "gatsby build && gh-pages -d public -b master"
   },
   "dependencies": {
-    "gatsby": "^2.22.15",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-sass": "^2.3.6",
     "node-sass": "^4.14.1",
     "react": "^16.12.0",
